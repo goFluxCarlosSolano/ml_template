@@ -1,6 +1,6 @@
 {
    "repository_name":"ml_project",
-   "notebook_name":"notebook",
+   "notebook_name":"notebook.ipynb",
    "python_file_name":"app",
    "python_interpreter": ["python3", "python"]
 }
