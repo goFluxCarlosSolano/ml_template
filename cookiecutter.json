@@ -1,6 +1,7 @@
 {
    "repository_name":"ml_project",
    "notebook_name":"notebook",
-   "python_file_name":"app",
+   "python_train_name":"train",
+   "python_test_name":"test",
    "python_interpreter": ["python3", "python"]
 }
